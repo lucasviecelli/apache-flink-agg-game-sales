@@ -1,0 +1,33 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary output
+*.test
+
+# Build files
+*.o
+*.a
+*.swp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.idea/
+.vscode/
+
+# Package dependencies
+vendor/
+Gopkg.lock
+
+# Log files
+log.txt
+*.log
+
+# Temporary files
+*.tmp
