@@ -86,3 +86,8 @@ Show top hit platforms...
 Select the desired option from the menu by entering the corresponding number. Follow the on-screen instructions to interact with the environment and view the results.
 Feel free to explore and modify the script according to your needs. Enjoy using the project!
 
+## References
+
+- [Apache Flink Documentation](https://ci.apache.org/projects/flink/flink-docs-release-1.14/)
+- [Building Streaming Application with Flink SQL](https://flink.apache.org/2020/07/28/flink-sql-demo-building-an-end-to-end-streaming-application/)
+
